@@ -1,0 +1,16 @@
+.straw {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.bg {
+    width: 50%;
+    height: 400px;
+    border: 2px solid black;
+    background-size: cover;
+}
+
+.normal {
+    background-color: yellow;
+}

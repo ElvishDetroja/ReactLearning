@@ -1,0 +1,14 @@
+.container-box{
+    position: relative;
+}
+.close{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+}
+
+.edit{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+}
